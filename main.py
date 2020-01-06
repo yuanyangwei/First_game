@@ -87,7 +87,7 @@ class Player:
         self.width = player_width
         self.height = player_height
         self.speed = 3
-        self.player_level = 5
+        self.player_level = 1
         self.player_current_health = 100
         self.player_full_health = 100
         self.experience_initial = 1
